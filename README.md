@@ -2,8 +2,8 @@
 #### I'm a QA engineer
 I love the field I work in, but that doesn't stop me from developing Java programs in my spare time.
 
-- 🔭 I’m currently working on [RPM_Fraction_AHK](https://github.com/AukiCat/RPM_Fraction_AHK) 
-- 🌱 I’m currently learning **Java** (advanced level)
+- 🔭 I’m currently working on RPM_Fraction_AHK _(currently private repository)_
+- 🌱 I’m currently learning **Java** _(advanced level)_
 - 📫 How to reach me: **aukicat@gmail.com** 
 - 😄 Pronouns: **he/him** 
 - ⚡ Fun fact: **I really like foxes**
