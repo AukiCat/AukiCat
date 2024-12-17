@@ -1,19 +1,12 @@
-### Hi there 👋, my name is Katsuo
+### Hi there 👋, my name is Auki
 #### I'm a QA engineer
 I love the field I work in, but that doesn't stop me from developing Java programs in my spare time.
 
 - 🔭 I’m currently working on [KitsuByte](https://github.com/KitsuByte) projects.
 - 🌱 I’m currently learning **Java** _(advanced level)_
-- 📫 How to reach me: **aukicat@gmail.com** 
+- 📫 How to reach me: **aukicat.contact@proton.me** 
 - 😄 Pronouns: **he/him** 
 - ⚡ Fun fact: **I really like foxes**
-
-###
-<div align="left">
-  <a href="https://discordapp.com/users/443083516679553034/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
-  </a>
-</div>
 
 ###
 
